@@ -1,5 +1,5 @@
-# IndustrialGarden
-Electroacoustic instrument with analog circuitry and DSP via Teensy 4.1 and Audio Shield.
+# Industrial Garden
+An electroacoustic instrument with analog circuitry and digital signal processing via Teensy 4.1 and Audio Shield.
 Inspired by Folktek's Luminist Garden and subsequent variations, this code is used on a similar-in-concept project.
 # Hardware Elements
 A wooden enclosure has two piezo discs mounted inside, in varying diameters, which output signal through an analog path before encountering the Teensy. Guitar strings are affixed in two bundles to a grounding bar with allows a unqiue sound to be picked up by the piezos as well.
